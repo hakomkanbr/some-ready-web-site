@@ -1,0 +1,242 @@
+@media (max-width:463px){
+    #icon-layout .navbar-default{
+        display: inherit;
+        padding-top: 10px;
+    }
+    #icon-layout .navbar .img-header img{
+        float: left;
+    }
+    #icon-layout .title-header h1 {
+        font-size: 50px;
+        margin-bottom: 18px;
+        margin-top: 50px;
+    }
+    #icon-layout .body-header{
+        padding: 10px 59px;
+    }
+    .test2{
+        height: 445px;
+    }
+    .test1{
+        height: 465px;
+    }
+    .our-philosophy{
+        background-position: 4px -35px;
+    }
+    .our-philosophy .text-body1{
+        padding: 15px 104px;
+    }
+    .our-philosophy .title-our h1{
+        font-size: 36px;
+    }
+    .part3 .bodyhmgr span{
+        display: none;
+    }
+    .part-end {
+        min-height: 750px;
+    }
+}
+@media (min-width:464px) and (max-width:767px){
+    #icon-layout .navbar-default{
+        display: inherit;
+        padding-top: 10px;
+    }
+    #icon-layout .navbar .img-header img{
+        float: left;
+    }
+    #icon-layout .title-header h1 {
+        font-size: 50px;
+        margin-bottom: 18px;
+        margin-top: 50px;
+    }
+    #icon-layout .body-header{
+        padding: 10px 59px;
+    }
+    .test2{
+        height: 465px;
+    }
+    .test1{
+        height: 485px;
+    }
+    .our-philosophy{
+        background-position: 4px -35px;
+        background-repeat: round;
+        min-height: 885px;
+    }
+    .our-philosophy .back-our{
+        min-height: 100px;
+    }
+    .our-philosophy .text-body1{
+        padding: 15px 104px;
+    }
+    .our-philosophy .text-body2{
+        padding: 15px 104px;
+    }
+    .our-philosophy .title-our h1{
+        font-size: 40px;
+    }
+    .part3 .bodyhmgr {
+        padding: 5px 0px;
+    }
+    .part3 .bodyhmgr span{
+        display: none;
+    }
+    .yoga .body-part {
+        padding: 1px 32px;
+    }
+    .yoga h2{
+        width: 367px;
+    }
+    .yoga .img-body {
+        float: none;
+        margin: 79px 0 0 0;
+    }
+    .registration .body-hsf h1{
+        margin-top: 15px;
+    }
+    .registration {
+        background-repeat: round;
+    }
+    .three-img .thore{
+        margin-left: 14%;
+        margin-bottom: 65px;
+    }
+    .part-end .padding-body1 {
+        padding: 20px 63px;
+    }
+    .part-end .padding-body2 {
+        padding: 20px 63px;
+    }
+    .part-end {
+        min-height: 866px;    
+    }
+    .yoga-therapy{
+        margin-top: -199px;
+        background-repeat: round;
+    }
+    .footer p{
+        border: none;
+        width: 100%;
+    }
+    .yoga-therapy .row {
+        margin: 187px 0 0 0;
+    }
+    .our-philosophy span {
+     display: none;
+    }
+    .our-philosophy .back-our{
+        padding-top: 132px;
+    }
+    .footer h2{
+        text-align: center;
+    }
+    .footer ul{
+        text-align: center;
+    }
+}
+
+@media (min-width:768px) and (max-width:991px){
+    #icon-layout .title-header h1 {
+        font-size: 51px;
+        margin-bottom: 18px;
+        margin-top: 10px;
+    }
+    #icon-layout .body-header{
+        padding: 10px 127px;
+    }
+    .test2{
+        height: 480px;
+    }
+    .test1{
+        height: 500px;
+    }
+    .our-philosophy{
+        background-position: 4px -118px;
+    }
+    .our-philosophy .text-body1{
+        padding: 15px 156px;
+        text-align: start;
+    }
+    .our-philosophy .text-body2{
+        padding: 15px 156px;
+    }
+    .part3 .bodyhmgr {
+        padding: 5px 23px;
+    }
+    .yoga .body-part {
+        padding: 20px 0 0 48px;
+    }
+    .part-end {
+        min-height: 663px;    
+    }
+    .yoga-therapy{
+        margin-top: -199px;
+        background-repeat: round;
+    }
+    .yoga-therapy .row {
+        margin: 200px 0 0 0;
+    }
+}
+
+
+
+@media (min-width:992px) and (max-width:1199px){
+    .our-philosophy{
+        background-position: 4px -209px;
+    }
+    .part3 .bodyhmgr{
+        padding: 5px 60px;
+    }
+}
+
+@media (min-width:992px){
+    #icon-layout .body-header{
+        padding: 10px 243px;
+    }
+    .test2{
+        height: 480px;
+    }
+    .test1{
+        height: 500px;
+    }
+    
+}
+@media (min-width:1199px){
+    #icon-layout .body-header{
+        padding: 10px 298px;
+    }
+    .test2{
+        height: 480px;
+    }
+    .test1{
+        height: 500px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width:680px) and (max-width:767px){
+    .part3 .bodyhmgr {
+        padding: 5px 18px;
+    }
+}
+/* @media (min-width:660px) and (max-width:767px){
+
+} */
